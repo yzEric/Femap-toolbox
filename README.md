@@ -24,3 +24,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
+
+### Save PNG
+Make capture of femap model and save it in png format in the model directory 
