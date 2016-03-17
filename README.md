@@ -27,3 +27,6 @@ SOFTWARE.
 
 ### Save PNG
 Make capture of femap model and save it in png format in the model directory 
+
+### View in plan
+Adjust orientation of view to fit nearest plan  
