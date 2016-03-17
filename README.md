@@ -25,8 +25,22 @@ SOFTWARE.
 ```
 
 
+### Legend for Prop and Mat
+Show legend with colors for properties and materials
+
+**Options**
+
+* Text: Font, Color, Border
+* Group: by properties or materials
+* Properties: ID, Tilte, Type, Thickness
+* Materials: ID, Title, Type
+* Position: Top/Center/Bottom, Left/Rigth, offsets, Spacing
+* Visibility> All views/ Single view
+
+
 ### Save PNG
 Make capture of femap model and save it in png format in the model directory 
+
 
 ### View in plan
 Adjust orientation of view to fit nearest plan  
