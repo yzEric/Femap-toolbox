@@ -35,7 +35,7 @@ Show legend with colors for properties and materials
 * Properties: ID, Tilte, Type, Thickness
 * Materials: ID, Title, Type
 * Position: Top/Center/Bottom, Left/Rigth, offsets, Spacing
-* Visibility> All views/ Single view
+* Visibility: All views/ Single view
 
 
 ### Save PNG
