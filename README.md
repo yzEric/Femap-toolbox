@@ -37,8 +37,7 @@ Show legend with colors for properties and materials
 * Position: Top/Center/Bottom, Left/Rigth, offsets, Spacing
 * Visibility: All views/ Single view
 
-![Legend](https://raw.githubusercontent.com/yzEric/Femap-toolbox/master/Legend%20for%20Prop%20and%20Mat.png"Legend for properties and materials")
-
+![Legend](https://raw.githubusercontent.com/yzEric/Femap-toolbox/master/Legend%20for%20Prop%20and%20Mat.png" Legend for properties and materials")
 
 ### Save PNG
 Make capture of femap model and save it in png format in the model directory 
