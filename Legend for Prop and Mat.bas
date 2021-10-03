@@ -1,6 +1,6 @@
 '______________________________________________________________
 '    Name:       Show properties / materials Legends
-'    Author:     E. LE GAL
+'    Author:     Eric LE GAL > https://github.com/yzEric
 '    Version:    1.0
 '    Date:       08/03/2016
 '    Languages:  WinWrap
