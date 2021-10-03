@@ -39,6 +39,11 @@ Show legend with colors for properties and materials
 
 ![Legend](https://raw.githubusercontent.com/yzEric/Femap-toolbox/master/Legend%20for%20Prop%20and%20Mat.png "Legend for properties and materials")
 
+### Merge Layers
+Easy way to merge layers, it avoids having layers that reappear after rebuilds.
+All entities of layers you want to delete are move to a destination layer. 
+
+
 ### Save PNG
 Make capture of femap model and save it in png format in the model directory 
 
