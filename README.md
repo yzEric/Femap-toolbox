@@ -24,6 +24,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
+### Distribute nodes
+Automatically replaces selected nodes in line with uniform spacing
+
+![Legend](https://raw.githubusercontent.com/yzEric/Femap-toolbox/master/Distribute%20nodes.png "Distribute nodes")
 
 ### Legend for Prop and Mat
 Show legend with colors for properties and materials
